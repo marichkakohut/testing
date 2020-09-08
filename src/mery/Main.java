@@ -12,5 +12,7 @@ public class Main {
         System.out.println("press any kay..");
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
+
+        System.out.println("Here was Bohdan, and he loves you");
     }
 }
